@@ -13,4 +13,4 @@ bin:
 	mkdir -p bin/
 
 clean:
-	rm -rf *.o *~ hello
+	rm -rf bin/
