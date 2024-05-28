@@ -6,7 +6,7 @@ Make a backup of apt sources.list
 ```
 sudo cp /etc/apt/sources.list /etc/apt/sources.list.bckp
 ```
-Update the name of version (currently Bookworm) to "testing" (I'm using vim to update the file)
+Update the name of version (currently Bookworm) to "testing" (I'm using **vim** - not vim-tiny - to update the file)
 ```
 sudo vim /etc/apt/sources.list
 ```
